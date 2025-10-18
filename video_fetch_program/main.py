@@ -42,8 +42,8 @@ def download_batch(video_links):
             "--min-split-size=1M",
             "--download-result=hide"
         ],
-        "concurrent_fragment_downloads": 8,
-        "n_threads": 8,
+        "concurrent_fragment_downloads": 12,
+        "n_threads": 12,
         "nocheckcertificate": True,
     }
 
@@ -51,18 +51,18 @@ def download_batch(video_links):
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         ydl.download(video_links)
 
-def parallel_download(video_links, workers=6, batch_size=10):
+def parallel_download(video_links, workers=10, batch_size=10):
     batches = [video_links[i:i+batch_size] for i in range(0, len(video_links), batch_size)]
     with ThreadPoolExecutor(max_workers=workers) as executor:
         executor.map(download_batch, batches)
 
 if __name__ == "__main__":
     # Uncomment this once to scrape playlist links
-    scrape_links()
+    # scrape_links()
 
     with open("youtube/links", encoding="utf-8") as f:
         video_links = f.read().splitlines()
 
     print(f"Starting downloads for {len(video_links)} videos...")
-    parallel_download(video_links, workers=6, batch_size=10)
+    parallel_download(video_links, workers=10, batch_size=10)
     print("All downloads complete.")
