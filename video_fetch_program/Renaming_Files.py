@@ -1,8 +1,9 @@
 import os
 
 folder = "audios"
-print("renamed:\n")
-for file in os.listdir(folder):
+audios=os.listdir(folder)
+for i in range(136, 140):
+    file = audios[i]
     vid_num = file.split("#")[1].split(".")[0]
     ext=file[-4:]
     new_file= file.split(" ｜ ")[0]

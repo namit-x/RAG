@@ -66,3 +66,33 @@ if __name__ == "__main__":
     print(f"Starting downloads for {len(video_links)} videos...")
     parallel_download(video_links, workers=10, batch_size=10)
     print("All downloads complete.")
+
+
+# import yt_dlp
+
+# urls = [
+#     "https://www.youtube.com/watch?v=SksvlZM-5Sk&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&index=89&pp=iAQB",
+#     "https://www.youtube.com/watch?v=VELNPK0dK84&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&index=90&pp=iAQB",
+#     "https://www.youtube.com/watch?v=sgNZcK8QIyc&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&index=130&pp=iAQB"
+# ]
+
+# ydl_opts = {
+#     "format": "bestaudio[ext=m4a]/bestaudio/best",
+#     "outtmpl": "audios/%(title)s.%(ext)s",
+#     "noplaylist": True,
+#     "nooverwrites": True,
+#     "quiet": True,
+#     "external_downloader": "aria2c",
+#     "external_downloader_args": [
+#         "--max-connection-per-server=12",
+#         "--split=12",
+#         "--min-split-size=1M",
+#         "--download-result=hide"
+#     ],
+#     "concurrent_fragment_downloads": 12,
+#     "n_threads": 12,
+#     "nocheckcertificate": True,
+# }
+
+# with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+#     ydl.download(urls)

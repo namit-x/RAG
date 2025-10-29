@@ -1,0 +1,124 @@
+1_Installing VS Code & How Websites Work.m4a
+3_Basic Structure of an HTML Website.m4a
+8_Inline & Block Elements in HTML.m4a
+5_Image, Lists, and Tables in HTML.m4a
+9_Id & Classes in HTML.m4a
+14_Introduction to CSS.m4a
+2_Your First HTML Website.m4a
+4_Heading, Paragraphs and Links.m4a
+12_Exercise 1 - Pure HTML Media Player.m4a
+13_Entities, Code tag and more on HTML.m4a
+15_Inline, Internal & External CSS.m4a
+16_Exercise 1 - Solution & Shoutouts.m4a
+18_CSS Box Model - Margin, Padding & Borders.m4a
+25_Styling Lists using CSS.m4a
+19_CSS Fonts, Text & Color Properties.m4a
+22_CSS Sizing Units - px, rem, em, vh, vw, % & more.m4a
+26_CSS Overflow Property.m4a
+28_CSS Position Property.m4a
+27_Exercise 2 - Solutions and Shoutouts.m4a
+20_Exercise 2 - CSS Challenge.m4a
+29_Exercise 3 - Design this Card .m4a
+32_Exercise 3 - Solution.m4a
+38_CSS Flexbox - Ultimate MasterClass.m4a
+37_CSS Exercise 5 - Design this Layout.m4a
+47_Exercise 7 - Solution & Shoutouts.m4a
+39_CSS Grid - Ultimate MasterClass.m4a
+34_CSS Float & Clear.m4a
+44_Exercise 7 - Design the Grid.m4a
+46_CSS Animations.m4a
+43_Exercise 6 - Solution & Shoutouts.m4a
+52_Figma Basics in One Video.m4a
+50_CSS Filters.m4a
+56_JavaScript Conditionals： if, else if,  else ladder.m4a
+48_Exercise 8 - Bounce Animation.m4a
+60_JavaScript Strings.m4a
+63_JavaScript Arrays.m4a
+55_JavaScript Variables, Data Types & Objects.m4a
+54_Introduction to JavaScript & Installing Node.js.m4a
+62_JavaScript Exercise 10 - Business Name Generator.m4a
+59_Exercise 9 - Faulty Calculator.m4a
+65_JavaScript Exercise 11 - Calculate the Factorial.m4a
+66_Document Object Model in JavaScript.m4a
+70_JavaScript Exercise 12 - Color the Boxes.m4a
+67_JavaScript DOM - Children, Parent & Sibling Nodes.m4a
+72_JavaScript Exercise 12 - Solution & Shoutouts.m4a
+74_Events, Event Bubbling, setInterval & setTimeout.m4a
+75_JavaScript Callbacks & Promises.m4a
+68_JavaScript -  Selecting by Ids, Classes, and More.m4a
+73_JavaScript Exercise 13 - Dynamic Website Builder.m4a
+71_Inserting and Removing Elements using JavaScript.m4a
+76_Async⧸Await & Fetch API in JavaScript with Examples.m4a
+78_JavaScript Exercise 14 - Hacker's Terminal.m4a
+83_JavaScript Interview Questions.m4a
+81_JavaScript Exercise 14 - Solution & Shoutouts.m4a
+77_JavaScript Exercise 13 - Solution & Shoutouts.m4a
+87_Working with Files： fs and path Modules.m4a
+86_CommonJs Vs EcmaScript Modules.m4a
+80_Classes & Objects - Object Oriented Programming in Js.m4a
+85_Backend, Node.js & npm.m4a
+88_Introduction to Express Js.m4a
+90_Middlewares in Express Js.m4a
+89_Response, Request and Routers in Express.m4a
+93_Exercise 15 - Solution & Shoutouts.m4a
+95_CRUD Operations in MongoDB.m4a
+94_Installing MongoDB & MongoDB Compass.m4a
+96_Installing Mongoose & Using it with Express.m4a
+92_ejs Template Engine in Express.m4a
+98_Tailwind CSS in one Video.m4a
+99_Exercise 16 - Solution & Shoutouts.m4a
+97_Exercise 16 - Dummy Data Generator.m4a
+105_Introduction to React & Why use React？.m4a
+103_What is Hosting？ Where to Host？ Which Hosting？.m4a
+104_Hosting an Express App on Ubuntu VPS using Hostinger.m4a
+110_Conditional Rendering  & Rendering Lists in React.m4a
+111_Exercise 18 - Display the Cards.m4a
+114_TodoList App using React, Tailwind & React Icons.m4a
+106_Components, Props and JSX in React.m4a
+108_The useEffect Hook in React.m4a
+119_Handling Forms + Connecting React to Express Backend.m4a
+120_Learn Redux in One video.m4a
+109_The useRef Hook in React.m4a
+10_Video, Audio & Media in HTML.m4a
+112_Handling Events in React.m4a
+115_React Router： Routing in React.m4a
+116_The useContext hook in React.m4a
+117_The useMemo hook in React.m4a
+118_The useCallback hook in React.m4a
+127_Auth.js - Authentication in Next.js.m4a
+133_SSR, SSG & ISR in Next.js.m4a
+17_CSS Selectors MasterClass.m4a
+30_CSS Variables.m4a
+35_More on CSS Selectors.m4a
+36_Exercise 4 - Solution & Shoutouts.m4a
+40_Exercise 5 - Solution & Shoutouts.m4a
+45_CSS Transition Property.m4a
+49_CSS Object-fit and Object-cover.m4a
+57_JavaScript Loops.m4a
+79_JavaScript try catch & Error Handling.m4a
+7_Forms and input tags in HTML.m4a
+82_Advanced JavaScript.m4a
+138_Deploying our Next.js App to Vercel.m4a
+136_[Project] Let's Build a Url Shortener in Next.js 15.m4a
+139_My Last Video.m4a
+135_Styled JSX and other ways to Style in Next.js.m4a
+126_Middleware in Next.js.m4a
+123_Script, Link & Image components in Next.js.m4a
+128_Dynamic Routes in Next.js.m4a
+124_Creating APIs in Next.js.m4a
+113_Exercise 18 - Solution & Shoutouts.m4a
+125_Server Actions in Next.js.m4a
+6_SEO and Core Web Vitals in HTML.m4a
+132_Understanding next⧸navigation module in Next.js.m4a
+24_CSS Shadows and Outlines.m4a
+129_Layouts in Next.js.m4a
+58_JavaScript Functions.m4a
+121_Introduction to Next.js & File based routing.m4a
+23_CSS Display Property.m4a
+102_Exercise 17 - Solution & Shoutouts.m4a
+69_JavaScript Exercise 11 - Solution & Shoutouts.m4a
+64_JavaScript Exercise 10 - Solution.m4a
+42_CSS Transforms MasterClass.m4a
+107_Hooks & State in React.m4a
+134_Environment Variables in Next.js.m4a
+122_Server Components in Next.js.m4a
