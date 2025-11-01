@@ -2,7 +2,7 @@ import os
 
 folder = "audios"
 audios=os.listdir(folder)
-for i in range(136, 140):
+for i in range(len(audios)):
     file = audios[i]
     vid_num = file.split("#")[1].split(".")[0]
     ext=file[-4:]
